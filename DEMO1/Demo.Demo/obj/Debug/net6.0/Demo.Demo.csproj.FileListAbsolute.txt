@@ -1,0 +1,15 @@
+D:\zzzzz\DEMO\DEMO1\Demo.Demo\bin\Debug\net6.0\Demo.Demo.deps.json
+D:\zzzzz\DEMO\DEMO1\Demo.Demo\bin\Debug\net6.0\Demo.Demo.dll
+D:\zzzzz\DEMO\DEMO1\Demo.Demo\bin\Debug\net6.0\ref\Demo.Demo.dll
+D:\zzzzz\DEMO\DEMO1\Demo.Demo\bin\Debug\net6.0\Demo.Demo.pdb
+D:\zzzzz\DEMO\DEMO1\Demo.Demo\bin\Debug\net6.0\demo1.Data.dll
+D:\zzzzz\DEMO\DEMO1\Demo.Demo\bin\Debug\net6.0\demo1.Data.pdb
+D:\zzzzz\DEMO\DEMO1\Demo.Demo\obj\Debug\net6.0\Demo.Demo.csproj.AssemblyReference.cache
+D:\zzzzz\DEMO\DEMO1\Demo.Demo\obj\Debug\net6.0\Demo.Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\zzzzz\DEMO\DEMO1\Demo.Demo\obj\Debug\net6.0\Demo.Demo.AssemblyInfoInputs.cache
+D:\zzzzz\DEMO\DEMO1\Demo.Demo\obj\Debug\net6.0\Demo.Demo.AssemblyInfo.cs
+D:\zzzzz\DEMO\DEMO1\Demo.Demo\obj\Debug\net6.0\Demo.Demo.csproj.CoreCompileInputs.cache
+D:\zzzzz\DEMO\DEMO1\Demo.Demo\obj\Debug\net6.0\Demo.Demo.csproj.CopyComplete
+D:\zzzzz\DEMO\DEMO1\Demo.Demo\obj\Debug\net6.0\Demo.Demo.dll
+D:\zzzzz\DEMO\DEMO1\Demo.Demo\obj\Debug\net6.0\ref\Demo.Demo.dll
+D:\zzzzz\DEMO\DEMO1\Demo.Demo\obj\Debug\net6.0\Demo.Demo.pdb
